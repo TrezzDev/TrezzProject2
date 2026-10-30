@@ -60,11 +60,11 @@
    -------------------------------------------------------------------------- */
 :root {
   --color-fg: #ffffff;
-  --color-bg: #015fcc;
+  --color-bg: #0a0a0a;
   --color-bg-dark: #031f64;
-  --color-red: #ff0000;
+  --color-red: #c1121f;
   --color-muted: rgba(255, 255, 255, 0.4);
-  --color-pink: #fd77d9;
+  --color-pink: #2b2b2b;
 
   --color-button-1: #0a0a0a;
   --color-button-2: #eaeaea;
@@ -443,7 +443,7 @@ body.project-screen-active .side-number {
   margin-top: 0.65rem;
   height: 4px;
   width: clamp(220px, 20vw, 320px);
-  background: linear-gradient(270deg, #16cffb 0%, #0099ff 70%, transparent 100%);
+  background: linear-gradient(270deg, #080808 0%, #8b0000 70%, transparent 100%);
   box-shadow: 0 0 12px rgba(22, 207, 251, 0.9), 0 0 24px rgba(0, 153, 255, 0.6);
   border-radius: 2px;
 }
